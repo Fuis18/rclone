@@ -21,6 +21,16 @@ rclone config
 n
 name> Cloudfuis
 22
+```
+### Crear own client id
+
+[DOCS](https://rclone.org/drive/#making-your-own-client-id)
+
+[Console API Google](https://console.developers.google.com/)
+
+
+
+```sh
 1 // Full access
 ```
 
